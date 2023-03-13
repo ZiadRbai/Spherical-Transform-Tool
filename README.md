@@ -22,5 +22,7 @@ Editor script tool that extends the Unity transform component to place element o
   
 ## How-to-Use
 Choose an Axis, and click on the buttons to make it work, it will turn off when focus is lost for performance reasons:  
-![ExampleInside3](https://user-images.githubusercontent.com/73894693/224739007-99a10506-c253-41ed-8b2c-c19ae455401a.gif)
+![ExampleInside3](https://user-images.githubusercontent.com/73894693/224739007-99a10506-c253-41ed-8b2c-c19ae455401a.gif) 
+  
+P.S. It doesnt work too well with global transform handles, so make sure you drag your objects using the Local transform handles
 
