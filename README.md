@@ -18,3 +18,9 @@ Editor script tool that extends the Unity transform component to place element o
 4. All of your transform components are now equiped with the Spherical Transform tool.  
 
 ![image](https://user-images.githubusercontent.com/73894693/224734663-a478af44-4a98-49f5-8c12-879869d3ce64.png)  
+  
+  
+## How-to-Use
+Choose an Axis, and click on the buttons to make it work, it will turn off when focus is lost for performance reasons:  
+![ExampleInside3](https://user-images.githubusercontent.com/73894693/224739007-99a10506-c253-41ed-8b2c-c19ae455401a.gif)
+
