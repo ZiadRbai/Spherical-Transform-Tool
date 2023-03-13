@@ -7,9 +7,14 @@ Editor script tool that extends the Unity transform component to place element o
 ## How-to-install
 1. Download the CustomTransformComponent.cs file  
 
-3. Put it in your Unity Project, inside an "Editor" folder like so:  
+2. Put it in your Unity Project, inside an "Editor" folder like so:  
 
-![image](https://user-images.githubusercontent.com/73894693/224734391-29571c15-67f2-443c-a6dc-16b9e7b2911d.png)
-3.Done. All of your transform components are now equiped with the Spherical Transform tool.  
+![image](https://user-images.githubusercontent.com/73894693/224735433-52cc57b9-f760-4f15-8216-707ad4e8d82d.png)
 
-![image](https://user-images.githubusercontent.com/73894693/224734663-a478af44-4a98-49f5-8c12-879869d3ce64.png)
+3.All of your transform components are now equiped with the Spherical Transform tool.  
+
+![image](https://user-images.githubusercontent.com/73894693/224734663-a478af44-4a98-49f5-8c12-879869d3ce64.png)  
+
+4. Make sure the spheres you want to be targetted are tagged with "Planet", like so:  
+
+![image](https://user-images.githubusercontent.com/73894693/224735883-c38e3f44-67a4-4d1c-a6bc-0529261722d9.png)
